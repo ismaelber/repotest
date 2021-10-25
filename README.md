@@ -1,3 +1,3 @@
 # repotest
-first edit repo for testing cmd
-this first change in the edit brainch , commit and desc
+second edit repo for testing cmd
+this second change in the edit brainch , commit and desc
